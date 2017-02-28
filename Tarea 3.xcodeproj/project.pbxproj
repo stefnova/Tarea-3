@@ -60,12 +60,12 @@
 		6BDE4C4C1E63DB0500CFFAE0 /* Tarea 3 */ = {
 			isa = PBXGroup;
 			children = (
+				6BDE4C631E63DDF000CFFAE0 /* ObjetoTVCell.swift */,
 				6BDE4C4D1E63DB0500CFFAE0 /* AppDelegate.swift */,
 				6BDE4C4F1E63DB0500CFFAE0 /* ViewController.swift */,
 				6BDE4C511E63DB0500CFFAE0 /* Main.storyboard */,
 				6BDE4C651E63DF1900CFFAE0 /* PracticandoTVC.swift */,
 				6BDE4C5F1E63DD6600CFFAE0 /* Objeto.swift */,
-				6BDE4C631E63DDF000CFFAE0 /* ObjetoTVCell.swift */,
 				6BDE4C541E63DB0500CFFAE0 /* Assets.xcassets */,
 				6BDE4C561E63DB0500CFFAE0 /* LaunchScreen.storyboard */,
 				6BDE4C591E63DB0500CFFAE0 /* Info.plist */,
@@ -311,6 +311,7 @@
 				6BDE4C5E1E63DB0500CFFAE0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
