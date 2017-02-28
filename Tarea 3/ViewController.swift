@@ -9,10 +9,18 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    var direc = ""
+    
+   
+    @IBOutlet weak var lblDireccion: UILabel!
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        
+        lblDireccion.text = direc
+        
     }
 
     override func didReceiveMemoryWarning() {
